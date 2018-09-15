@@ -1,0 +1,12 @@
+*~
+.DS_Store
+*.iml
+target
+.idea
+logs
+data/elasticsearch
+/git.sh
+rebel.xml
+data
+*.rebel.xml.bak
+*.log
